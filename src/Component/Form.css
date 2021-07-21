@@ -1,0 +1,19 @@
+.form {
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 20px;
+  text-align: center;
+  color: black;
+  border-radius: 10px;
+  background-color: cornflowerblue;
+}
+.form-input {
+  height: 2rem;
+  background-color: darkgreen;
+  color: aqua;
+  box-shadow: 0 0 40px rgba(0 0 0 0.2);
+}
+.form-input:focus {
+  border-color: aqua;
+  background: #ffffff;
+}
